@@ -21,5 +21,5 @@ public class Reference {
 	public static final String LOADER_NAME = "fabric-loader";
 	public static final String MAPPINGS_NAME = "intermediary";
 
-	public static String mavenServerUrl = "https://maven.fabricmc.net/";
+	public static String mavenServerUrl = "https://crystal.app.lss233.com/repositories/minecraft/";
 }
