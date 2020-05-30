@@ -1,0 +1,450 @@
+[
+  {
+    "version": "20w22a",
+    "stable": false
+  },
+  {
+    "version": "20w21a",
+    "stable": false
+  },
+  {
+    "version": "20w20b",
+    "stable": false
+  },
+  {
+    "version": "20w20a",
+    "stable": false
+  },
+  {
+    "version": "20w19a",
+    "stable": false
+  },
+  {
+    "version": "20w18a",
+    "stable": false
+  },
+  {
+    "version": "20w17a",
+    "stable": false
+  },
+  {
+    "version": "20w16a",
+    "stable": false
+  },
+  {
+    "version": "20w15a",
+    "stable": false
+  },
+  {
+    "version": "20w14a",
+    "stable": false
+  },
+  {
+    "version": "20w14infinite",
+    "stable": false
+  },
+  {
+    "version": "20w13b",
+    "stable": false
+  },
+  {
+    "version": "20w13a",
+    "stable": false
+  },
+  {
+    "version": "20w12a",
+    "stable": false
+  },
+  {
+    "version": "20w11a",
+    "stable": false
+  },
+  {
+    "version": "20w10a",
+    "stable": false
+  },
+  {
+    "version": "20w09a",
+    "stable": false
+  },
+  {
+    "version": "20w08a",
+    "stable": false
+  },
+  {
+    "version": "20w07a",
+    "stable": false
+  },
+  {
+    "version": "20w06a",
+    "stable": false
+  },
+  {
+    "version": "1.15.2",
+    "stable": true
+  },
+  {
+    "version": "1.15.2-pre2",
+    "stable": false
+  },
+  {
+    "version": "1.15.2-pre1",
+    "stable": false
+  },
+  {
+    "version": "1.15.1",
+    "stable": true
+  },
+  {
+    "version": "1.15.1-pre1",
+    "stable": false
+  },
+  {
+    "version": "1.15",
+    "stable": true
+  },
+  {
+    "version": "1.15-pre7",
+    "stable": false
+  },
+  {
+    "version": "1.15-pre6",
+    "stable": false
+  },
+  {
+    "version": "1.15-pre5",
+    "stable": false
+  },
+  {
+    "version": "1.15-pre4",
+    "stable": false
+  },
+  {
+    "version": "1.15-pre3",
+    "stable": false
+  },
+  {
+    "version": "1.15-pre2",
+    "stable": false
+  },
+  {
+    "version": "1.15-pre1",
+    "stable": false
+  },
+  {
+    "version": "19w46b",
+    "stable": false
+  },
+  {
+    "version": "19w46a",
+    "stable": false
+  },
+  {
+    "version": "19w45b",
+    "stable": false
+  },
+  {
+    "version": "19w45a",
+    "stable": false
+  },
+  {
+    "version": "19w44a",
+    "stable": false
+  },
+  {
+    "version": "19w42a",
+    "stable": false
+  },
+  {
+    "version": "19w41a",
+    "stable": false
+  },
+  {
+    "version": "19w40a",
+    "stable": false
+  },
+  {
+    "version": "19w39a",
+    "stable": false
+  },
+  {
+    "version": "19w38b",
+    "stable": false
+  },
+  {
+    "version": "19w38a",
+    "stable": false
+  },
+  {
+    "version": "19w37a",
+    "stable": false
+  },
+  {
+    "version": "19w36a",
+    "stable": false
+  },
+  {
+    "version": "19w35a",
+    "stable": false
+  },
+  {
+    "version": "19w34a",
+    "stable": false
+  },
+  {
+    "version": "1.14.4",
+    "stable": true
+  },
+  {
+    "version": "1.14.4-pre7",
+    "stable": false
+  },
+  {
+    "version": "1.14.4-pre6",
+    "stable": false
+  },
+  {
+    "version": "1.14.4-pre5",
+    "stable": false
+  },
+  {
+    "version": "1.14.4-pre4",
+    "stable": false
+  },
+  {
+    "version": "1.14.4-pre3",
+    "stable": false
+  },
+  {
+    "version": "1.14.4-pre2",
+    "stable": false
+  },
+  {
+    "version": "1.14.4-pre1",
+    "stable": false
+  },
+  {
+    "version": "1.14.3",
+    "stable": true
+  },
+  {
+    "version": "1.14.3-pre4",
+    "stable": false
+  },
+  {
+    "version": "1.14.3-pre3",
+    "stable": false
+  },
+  {
+    "version": "1.14.3-pre2",
+    "stable": false
+  },
+  {
+    "version": "1.14.3-pre1",
+    "stable": false
+  },
+  {
+    "version": "1.14.2",
+    "stable": true
+  },
+  {
+    "version": "1.14.2 Pre-Release 4",
+    "stable": false
+  },
+  {
+    "version": "1.14.2 Pre-Release 3",
+    "stable": false
+  },
+  {
+    "version": "1.14.2 Pre-Release 2",
+    "stable": false
+  },
+  {
+    "version": "1.14.2 Pre-Release 1",
+    "stable": false
+  },
+  {
+    "version": "1.14.1",
+    "stable": true
+  },
+  {
+    "version": "1.14.1 Pre-Release 2",
+    "stable": false
+  },
+  {
+    "version": "1.14.1 Pre-Release 1",
+    "stable": false
+  },
+  {
+    "version": "1.14",
+    "stable": true
+  },
+  {
+    "version": "1.14 Pre-Release 5",
+    "stable": false
+  },
+  {
+    "version": "1.14 Pre-Release 4",
+    "stable": false
+  },
+  {
+    "version": "1.14 Pre-Release 3",
+    "stable": false
+  },
+  {
+    "version": "1.14 Pre-Release 2",
+    "stable": false
+  },
+  {
+    "version": "1.14 Pre-Release 1",
+    "stable": false
+  },
+  {
+    "version": "19w14b",
+    "stable": false
+  },
+  {
+    "version": "19w14a",
+    "stable": false
+  },
+  {
+    "version": "3D Shareware v1.34",
+    "stable": false
+  },
+  {
+    "version": "19w13b",
+    "stable": false
+  },
+  {
+    "version": "19w13a",
+    "stable": false
+  },
+  {
+    "version": "19w12b",
+    "stable": false
+  },
+  {
+    "version": "19w12a",
+    "stable": false
+  },
+  {
+    "version": "19w11b",
+    "stable": false
+  },
+  {
+    "version": "19w11a",
+    "stable": false
+  },
+  {
+    "version": "19w09a",
+    "stable": false
+  },
+  {
+    "version": "19w08b",
+    "stable": false
+  },
+  {
+    "version": "19w08a",
+    "stable": false
+  },
+  {
+    "version": "19w07a",
+    "stable": false
+  },
+  {
+    "version": "19w06a",
+    "stable": false
+  },
+  {
+    "version": "19w05a",
+    "stable": false
+  },
+  {
+    "version": "19w04b",
+    "stable": false
+  },
+  {
+    "version": "19w04a",
+    "stable": false
+  },
+  {
+    "version": "19w03c",
+    "stable": false
+  },
+  {
+    "version": "19w03b",
+    "stable": false
+  },
+  {
+    "version": "19w03a",
+    "stable": false
+  },
+  {
+    "version": "19w02a",
+    "stable": false
+  },
+  {
+    "version": "18w50a",
+    "stable": false
+  },
+  {
+    "version": "18w49a",
+    "stable": false
+  },
+  {
+    "version": "18w48b",
+    "stable": false
+  },
+  {
+    "version": "18w48a",
+    "stable": false
+  },
+  {
+    "version": "18w47b",
+    "stable": false
+  },
+  {
+    "version": "18w47a",
+    "stable": false
+  },
+  {
+    "version": "18w46a",
+    "stable": false
+  },
+  {
+    "version": "18w45a",
+    "stable": false
+  },
+  {
+    "version": "18w44a",
+    "stable": false
+  },
+  {
+    "version": "18w43c",
+    "stable": false
+  },
+  {
+    "version": "18w43b",
+    "stable": false
+  },
+  {
+    "version": "1.14_combat-212796",
+    "stable": false
+  },
+  {
+    "version": "1_15_combat-6",
+    "stable": false
+  },
+  {
+    "version": "1.15_combat-1",
+    "stable": false
+  },
+  {
+    "version": "1.14_combat-3",
+    "stable": false
+  },
+  {
+    "version": "1.14_combat-0",
+    "stable": false
+  }
+]
