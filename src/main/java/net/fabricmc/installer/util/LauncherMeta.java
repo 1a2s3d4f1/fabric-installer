@@ -36,7 +36,7 @@ public class LauncherMeta {
 	}
 
 	private static LauncherMeta load() throws IOException {
-		URL url = new URL("https://launchermeta.mojang.com/mc/game/version_manifest.json");
+		URL url = new URL("https://download.mcbbs.net/mc/game/version_manifest.json");
 		URLConnection conn = url.openConnection();
 		try (BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream(), StandardCharsets.UTF_8))) {
 			return Utils.GSON.fromJson(reader, LauncherMeta.class);
