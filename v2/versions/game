@@ -1,5 +1,53 @@
 [
   {
+    "version": "20w27a",
+    "stable": false
+  },
+  {
+    "version": "1.16.1",
+    "stable": true
+  },
+  {
+    "version": "1.16",
+    "stable": true
+  },
+  {
+    "version": "1.16-rc1",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre8",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre7",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre6",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre5",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre4",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre3",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre2",
+    "stable": false
+  },
+  {
+    "version": "1.16-pre1",
+    "stable": false
+  },
+  {
     "version": "20w22a",
     "stable": false
   },
